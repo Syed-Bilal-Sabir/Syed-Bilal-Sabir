@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Syed-Bilal-Sabir
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning C++ and C# with unity3D.
-- 💞️ I’m looking to collaborate on any idnie game development.
+- 🌱 I’m currently learning C++ and have worked on Unity3D with C# as a scripting language.
+- 💞️ I’m looking to collaborate on any idie game development.
 - 📫 You can reach me here: bilalsabir709@gmail.com
 
 <!---
